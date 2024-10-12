@@ -14,7 +14,7 @@ Li B, Yang Y, Hong W, et al. Hyperbolic Neural Network Based Preselection for Ex
 
 #### A.2: HNN based Preselection 细节
 
-HNN-SAEAs通过基于HNN（Hopfield神经网络）的预选机制进行后代生成，包括GA（遗传算法）操作和基于HNN的预选操作。
+带有基于HNN预选机制的SAEAs后代生成过程:
 
 ![fig-HNN-p2](https://github.com/user-attachments/assets/fb42c13e-3d20-42b6-a2c7-2faa02a5a381)
 
